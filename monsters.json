@@ -6005,6 +6005,30 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Big Monster",
+      "age": "11",
+      "description": "Really big kid",
+      "id": 1002
+    },
+    {
+      "name": "Small monster",
+      "age": "1",
+      "description": "Small because its a baby",
+      "id": 1003
+    },
+    {
+      "name": "Medium size monster",
+      "age": "24",
+      "description": "Its only a teenager",
+      "id": 1004
+    },
+    {
+      "name": "Medium size monster 2",
+      "age": "26",
+      "description": "Its only a teenager and is best friends with the other medium monster",
+      "id": 1005
     }
   ]
 }
